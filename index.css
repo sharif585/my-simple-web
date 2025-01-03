@@ -1,4 +1,7 @@
 div{
-    color: aquamarine;
-    padding: 10px;
+    color: rgb(242, 18, 250);
+    margin: 0;
+    /* padding-top: 10px; */
+    margin-bottom: 10px;
+    background-color: green;
 }
